@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@mui/x-date-pickers": "^5.0.6",
+    "date-fns": "^2.29.3",
+    "moment": "^2.29.4",
+    "react-router-dom": "^6.4.2"
+  }
+}
